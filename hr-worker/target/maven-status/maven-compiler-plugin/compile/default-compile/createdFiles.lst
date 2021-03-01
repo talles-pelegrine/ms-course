@@ -1,0 +1,4 @@
+com/mscourse/hrworker/repositories/WorkerRepository.class
+com/mscourse/hrworker/resources/WorkerResource.class
+com/mscourse/hrworker/entities/Worker.class
+com/mscourse/hrworker/HrWorkerApplication.class
